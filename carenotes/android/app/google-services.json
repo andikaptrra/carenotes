@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1096472950743",
+    "project_id": "carenotes-f86db",
+    "storage_bucket": "carenotes-f86db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096472950743:android:3896356753c80bcc5c3d92",
+        "android_client_info": {
+          "package_name": "com.example.carenotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvl4Bffi8_WJAtjznhVSx2hzkLqoakwXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
